@@ -7,6 +7,7 @@ Repository for learning design patterns
 **Structural**
 - Adapter
 - Decorator
+- Proxy
 - Composite
 
 **Behavioural**
