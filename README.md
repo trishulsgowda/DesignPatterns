@@ -8,6 +8,7 @@ Repository for learning design patterns
 - Adapter
 - Decorator
 - Proxy
+- Facade
 - Composite
 
 **Behavioural**
