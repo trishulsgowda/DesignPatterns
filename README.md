@@ -14,3 +14,6 @@ Repository for learning design patterns
 **Behavioural**
 - Strategy
 - Template method
+- Chain of responsibility
+- Observer
+- State
